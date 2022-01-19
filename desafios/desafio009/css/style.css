@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(252, 245, 146);
+    color: rgb(92, 0, 0);
+    text-align: center;
+}
+
+div.margin-top20{
+    margin-top: 20px;
+}
