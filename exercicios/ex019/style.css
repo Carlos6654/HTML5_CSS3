@@ -23,3 +23,13 @@ h1#principal {
 h2 {
     color: maroon;
 }
+
+.basico {
+    color: darkgoldenrod;
+}
+.intermediario {
+    color: firebrick;
+}
+.avancado {
+    color: rgb(10, 66, 8);
+}
