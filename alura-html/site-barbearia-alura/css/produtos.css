@@ -1,6 +1,6 @@
 header{
-    background-color: burlywood;
-    padding: 20px 0;
+    background-color: rgb(230, 201, 164);
+    padding: 5px 0;
 }
 
 .caixa {
@@ -88,7 +88,7 @@ nav a:hover {
 footer {
     background: url("../img/bg.jpg");
     text-align: center;
-    padding: 40px 0;
+    padding: 10px 0;
 }
 
 .copyright {
