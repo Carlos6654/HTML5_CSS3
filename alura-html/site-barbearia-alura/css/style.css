@@ -1,11 +1,15 @@
+/*Imagens*/
+
 #banner {
     width: 100%;
 }
 
-.itens {
-    font-style: italic;
+.imagembeneficio {
+    width: 50%;
 }
 
+
+/*Títulos*/
 .titulo-centralizado {
     text-align: center;
 }
@@ -13,6 +17,8 @@
     padding-left: 20px;
 }
 
+
+/*Texto*/
 p {
     text-align: center;
 }
@@ -21,10 +27,21 @@ p {
     font-size: 20px;
 }
 
-em strong {
-    color: rgb(129, 5, 5);
+
+/*Lista*/
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
 }
 
+.itens {
+    font-style: italic;
+}
+
+
+/*Divs*/
 .principal {
     background-color: rgb(182, 202, 221);
     padding: 20px;
@@ -35,14 +52,8 @@ em strong {
     padding: 20px;
 }
 
-.imagembeneficio {
-    width: 50%;
-}
 
-ul {
-    display: inline-block;
-    vertical-align: top;
-    width: 20%;
-    margin-right: 15%;
+/*Configurações Globais*/
+em strong {
+    color: rgb(129, 5, 5);
 }
-
