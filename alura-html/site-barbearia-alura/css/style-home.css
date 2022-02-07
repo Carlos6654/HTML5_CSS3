@@ -1,0 +1,95 @@
+/*Imagens*/
+
+#banner {
+    width: 100%;
+    vertical-align: top;
+    border-top: solid;
+    border-bottom: solid;
+    border-color: darkred;
+    border-width: 1px;
+}
+
+.imagembeneficio {
+    width: 60%;
+    border-radius: 10px;
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: border-box;
+}
+
+
+/*Títulos*/
+.titulo-centralizado {
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 5px;
+}
+.titulo-principal {
+    padding-left: 20px;
+}
+
+
+/*Texto*/
+p {
+    text-align: center;
+    padding: 5px;
+}
+
+#missao {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.principal p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/*Lista*/
+.lista-beneficios {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.itens {
+    display: inline-block;
+    font-style: italic;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+
+/*Divs*/
+.principal {
+    background-color: rgb(230, 201, 164);
+    padding: 20px;
+}
+
+.beneficios {
+    margin: 15px auto;
+    position: relative;
+    text-align: center;    
+    width: 940px;
+    background-color: whitesmoke;
+    padding: 10px;
+    vertical-align: top;
+
+    border-style: solid;
+    border-color: darkred;
+    border-width: 2px;
+    border-radius: 10px;
+}
+
+.beneficio-center{
+    vertical-align: top;
+    padding-top: 50px;
+    width: 39%;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+/*Configurações Globais*/
+em strong {
+    color: rgb(182, 0, 0);
+}
